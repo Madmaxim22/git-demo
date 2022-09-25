@@ -21,3 +21,5 @@ Thanks for your attention.
 
 Добавил конфлик в ветке main.
 
+
+Проверяю конфликты в Intellij IDEA.
